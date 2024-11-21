@@ -1,4 +1,4 @@
-# -Best-Divorce-Attorney
+# Best-Divorce-Attorney
 Quickly find top-rated divorce attorneys through our trusted network. Our platform connects you with experienced legal professionals ready to provide expert guidance and support during challenging times. Simplify your search, make informed decisions, and gain confidence in your legal journey.
 # Best Divorce Attorney Finder
 
@@ -52,8 +52,8 @@ Are you looking to build or enhance a directory platform? **Let’s collaborate*
 
 ## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/dev-bilal)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:info.devbilal@gmail.com)
 
 ---
 
